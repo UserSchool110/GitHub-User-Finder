@@ -1,0 +1,14 @@
+[
+  {
+    "login": "octocat",
+    "name": "The Octocat",
+    "html_url": "https://github.com/octocat",
+    "bio": "GitHub mascot"
+  },
+  {
+    "login": "torvalds",
+    "name": "Linus Torvalds",
+    "html_url": "https://github.com/torvalds",
+    "bio": "Linux kernel creator"
+  }
+]
